@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: James Szewczyk!
+title: James Szewczyk
 email: szewczyk.james1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a social scientist 
-domain: jamesszewczyk.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://jamesszewczyk.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /jamesszewczyk.github.io/      # place folder name if the site is served in a subfolder   
+  I am a social scientist that specializes in survey methodology and American elections.
+baseurl: ""    # place folder name if the site is served in a subfolder   
+url: "https://jamesszewczyk.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
 github_username:  jamesszewczyk
 
 # Build settings
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
