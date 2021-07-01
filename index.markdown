@@ -4,7 +4,7 @@ layout: default
 
 # Welcome!
 
-I currently work at YouGov as a Senior Analyst on the Innovations team where I mainly work on data science and survey research projects relation to elections in the United States. I received my PhD in political science from the Department of Political Science at Emory University. My academic research focuses on voter behavior and electoral accountability in democracies. I am particularly interested in the consequences of electoral reforms in the United States for the behavior of voters, the behavior of elected officials, and policy outcomes. My CV can be found [here](http://jamesszewczyk.github.io/szewczyk_CV.pdf).
+I am currently employed at YouGov as a Senior Analyst on the Innovations team where I mostly work on data science and survey research projects related to elections in the United States. I received my PhD from the Department of Political Science at Emory University. My academic research focuses on voter behavior and electoral accountability in democracies. I am particularly interested in the consequences of electoral reforms in the United States for the behavior of voters, the behavior of elected officials, and policy outcomes. My CV can be found [here](http://jamesszewczyk.github.io/szewczyk_CV.pdf).
 
 **Contact Information:**    
 
